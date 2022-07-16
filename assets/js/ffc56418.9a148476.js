@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkyunghao_blog=self.webpackChunkyunghao_blog||[]).push([[894],{8228:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/feelings","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

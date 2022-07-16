@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkyunghao_blog=self.webpackChunkyunghao_blog||[]).push([[751],{3433:e=>{e.exports=JSON.parse('{"label":"feelings","permalink":"/blog/tags/feelings","allTagsPath":"/blog/tags","count":1}')}}]);

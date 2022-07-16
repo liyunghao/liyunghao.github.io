@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkyunghao_blog=self.webpackChunkyunghao_blog||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\u7406\u89e3\u5bb9\u6613\u63a5\u53d7\u96e3","permalink":"/blog/conprehension"},{"title":"First Blog Post","permalink":"/blog/Hello-world"}]}')}}]);
